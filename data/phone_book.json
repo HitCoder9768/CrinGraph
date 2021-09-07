@@ -1,0 +1,61 @@
+[
+    {
+      "name": "AKG",
+      "phones": [ "EO-IG955" ]
+    }, {
+      "name": "BLON",
+      "phones": [ "BL03" ]
+    }, {
+      "name":   "EZAudio",
+      "prefix": "Nicehck",
+      "phones": [ {"name": "D4 (Bass vent open)", "file": "D4 open"}
+                , {"name": "D4 (Bass vent closed)", "file": "D4 closed"} ]
+    }, {
+      "name":   "Feob",
+      "phones": [ {"name": "S9", "file": "Feob S9"} ]
+    }, {
+      "name":   "Final Audio",
+      "phones": [ "E500" ]
+    }, {
+      "name":   "Goodmans",
+      "phones": [ "High-Power Bass" ]
+    }, {
+      "name":   "KZ",
+      "phones": [ "ATE"
+                , "ATR"
+                , "ZSA"
+                , "ZSN"
+                , "ZST"
+                , "ZSN Pro" ]
+    }, {
+      "name":   "Moondrop",
+      "phones": [ "Crescent"
+                , "Aria" ]
+    }, {
+      "name": "Samsung",
+      "phones": [ "EO-IG955" ]
+    }, {
+      "name":   "Senfer",
+      "phones": [ "DT6" ]
+    }, {
+      "name":   "SkullCandy",
+      "phones": [ "Jib" ]
+    }, {
+      "name":   "Sony",
+      "phones": [ {"name": "MH755", "file": ["MH755", "MH755 (Modded)"]}
+                , "MH750" ]
+    }, {
+      "name":   "Tin",
+      "suffix": "HiFi",
+      "phones": [ "T2"
+                , "T2 Plus" ]
+    }, {
+      "name":   "TRN",
+      "phones": [ "V80" ]
+    }, {
+      "name":   "Veho",
+      "phones": [ "Z1"
+                , "NPNG" ]
+    }
+  ]
+  
