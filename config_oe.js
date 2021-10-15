@@ -32,7 +32,7 @@ const init_phones = ["HD560S"],                      // Optional. Which graphs t
 // Specify which targets to display
 const targets = [
     { type:"Neutral",    files:["IEF Neutral"] },
-    { type:"Preference", files:["HitCoder","Harman AE OE 2018"] }
+    { type:"Preference", files:["HitCoder","Harman AE OE 2018",'IEF _Harman_'] }
 ];
 
 

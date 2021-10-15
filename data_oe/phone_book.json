@@ -20,5 +20,8 @@
   }, {
     "name":   "OKCSC",
     "phones": [ "ZX1" ]
+  }, {
+    "name":   "Sony",
+    "phones": [ "MDR7506" ]
   }
 ]

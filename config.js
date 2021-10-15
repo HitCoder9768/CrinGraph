@@ -31,8 +31,8 @@ const init_phones = ["Aria"],                      // Optional. Which graphs to 
 
 // Specify which targets to display
 const targets = [
-    { type:"Neutral",    files:["Diffuse Field","IEF Neutral"] },
-    { type:"Preference", files:["HitCoder","Harman", "KZ"] }
+    { type:"Neutral",    files:["HitFi Neutral", "IEF Neutral", "Diffuse Field"] },
+    { type:"Preference", files:["HitFi","Harman"] }
 ];
 
 

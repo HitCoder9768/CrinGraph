@@ -29,8 +29,10 @@
                 , "ZSN Pro" ]
     }, {
       "name":   "Moondrop",
-      "phones": [ "Crescent"
-                , "Aria" ]
+      "phones": [ "Aria"
+                , "Crescent"
+		, "Quarks"
+		, "Spaceship" ]
     }, {
       "name": "Samsung",
       "phones": [ "EO-IG955" ]
