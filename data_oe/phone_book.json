@@ -5,12 +5,6 @@
               , "Momentum 1.0"
               , "Momentum 2.0" ]
   }, {
-    "name":   "Corsair",
-    "phones": [ "Void" ]
-  }, {
-    "name":   "Philips",
-    "phones": [ "SHP9500" ]
-  }, {
     "name":   "BLON",
     "suffix": "/ BossHiFi",
     "phones": [ "B8" ]
@@ -20,8 +14,5 @@
   }, {
     "name":   "OKCSC",
     "phones": [ "ZX1" ]
-  }, {
-    "name":   "Sony",
-    "phones": [ "MDR7506" ]
   }
 ]
