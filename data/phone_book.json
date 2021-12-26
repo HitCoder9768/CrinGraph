@@ -34,16 +34,20 @@
       "name":   "Moondrop",
       "phones": [ "Aria"
                 , "Crescent"
-		, "Quarks"
-		, "Spaceship"
-		, "SSP"
-		, "SSR" ]
+                , "Quarks"
+                , "Spaceship"
+                , "SSP"
+                , "SSR" ]
+    }, {
+      "name":	"Poundland",
+      "phones": [ "PowerGeek"
+                , "Sports" ]
     }, {
       "name":	"QKZ",
       "phones": [ "AK6"
                 , "SK7"
-		, "VK4"
-		, "ZXN" ]
+                , "VK4"
+                , "ZXN" ]
     }, {
       "name": "Samsung",
       "phones": [ "EO-IG955" ]
