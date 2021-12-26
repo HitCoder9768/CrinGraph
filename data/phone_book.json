@@ -17,6 +17,9 @@
       "name":   "Final Audio",
       "phones": [ "E500" ]
     }, {
+      "name":   "GK",
+      "phones": [ "GS10" ]
+    }, {
       "name":   "Goodmans",
       "phones": [ "High-Power Bass" ]
     }, {
@@ -32,7 +35,15 @@
       "phones": [ "Aria"
                 , "Crescent"
 		, "Quarks"
-		, "Spaceship" ]
+		, "Spaceship"
+		, "SSP"
+		, "SSR" ]
+    }, {
+      "name":	"QKZ",
+      "phones": [ "AK6"
+                , "SK7"
+		, "VK4"
+		, "ZXN" ]
     }, {
       "name": "Samsung",
       "phones": [ "EO-IG955" ]
@@ -41,16 +52,29 @@
       "phones": [ "DT6" ]
     }, {
       "name":   "SkullCandy",
-      "phones": [ "Jib" ]
+      "phones": [ "Jib" 
+                , "Ink'd"
+                , {"name": "Smokin' Buds", "file": "Smokin'"}]
     }, {
       "name":   "Sony",
       "phones": [ {"name": "MH755", "file": ["MH755", "MH755 (Modded)"]}
                 , "MH750" ]
     }, {
+      "name":   "SZKOSTON",
+      "phones": [ "Sport"
+                , "TM-01"
+                , {"name": "X2 Pro", "file": "X2Pro"} ]
+    }, {
+      "name":	"Tanchjim",
+      "phones": [ "Tanya" ]
+    }, {
       "name":   "Tin",
       "suffix": "HiFi",
       "phones": [ "T2"
                 , "T2 Plus" ]
+    }, {
+      "name":   "TRIPOWIN",
+      "phones": [ "MELE" ]
     }, {
       "name":   "TRN",
       "phones": [ "V80" ]
