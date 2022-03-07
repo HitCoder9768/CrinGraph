@@ -26,10 +26,15 @@
       "name":   "KZ",
       "phones": [ "ATE"
                 , "ATR"
+                , "CRN"
+                , "DQ6S"
                 , "ZSA"
                 , "ZSN"
                 , "ZST"
                 , "ZSN Pro" ]
+    }, {
+      "name":   "Miniso",
+      "phones": [ "WBB" ]
     }, {
       "name":   "Moondrop",
       "phones": [ "Aria"
